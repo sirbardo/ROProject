@@ -1,0 +1,22 @@
+1. Read instances' data from file
+2. Initialize the parameters read from file
+3. n = number of customers
+4. c = matrix of costs
+5. ml = max load of the vehicle
+6. l = linehaul values vector
+7. b = backhaul values vector
+8. Initialize the matrix s of savings 
+9. for i = 1:n
+    1. for j = 1:n
+        1. If i == j
+            1. s_ij = +inf
+        2. else
+            1. s_ij = c_i0 + c_0j - c_ij
+10. Routes = list of empty routes
+11. for i = 1:n
+    1. Routes_i = (0,i,0)
+12. Order the savings s in a non increasing fashion
+13. for each route in Routes:
+    1. while this route can be feasibly (respecting the constraints) merged further:
+	   1.determine the first saving s_ki or s_jl in the ordered list that can feasibly be used to merge the current route with another route containing either the arc (k, 0) or (0, l). 
+       	   2. merge the two routes.
