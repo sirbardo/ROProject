@@ -1,0 +1,17 @@
+Total cost 155796.40880831025
+Time for construction 0.03080129623413086
+Time for best relocate 0.018166065216064453
+Time for best exchange 0.008616447448730469
+Time for best improvement 0.026782512664794922
+
+Route 0
+(0, 17, 9, 24, 20, 22, 1, 0)
+Cost 80125.46715939156
+
+Route 1
+[0, 18, 23, 19, 6, 7, 16, 21, 14, 4, 0]
+Cost 128934.30747097718
+
+Route 2
+[0, 11, 15, 8, 13, 25, 12, 10, 3, 2, 5, 0]
+Cost 137422.8134054747
