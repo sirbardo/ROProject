@@ -1,8 +1,6 @@
 Total cost 348293.29170934536
-Time for construction 4.580739736557007
-Time for best relocate 1.3453009128570557
-Time for best exchange 0.05852007865905762
-Time for best improvement 1.4038209915161133
+Time for construction 4.065162897109985
+Time for local search 1.7025318145751953
 
 Route 0
 (0, 78, 82, 57, 9, 33, 3, 0)

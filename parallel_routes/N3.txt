@@ -1,8 +1,6 @@
 Total cost 452202.78437571216
-Time for construction 29.901882886886597
-Time for best relocate 7.579248905181885
-Time for best exchange 0.1890871524810791
-Time for best improvement 7.768336057662964
+Time for construction 29.732253789901733
+Time for local search 11.477065086364746
 
 Route 0
 [0, 139, 140, 126, 116, 58, 146, 99, 147, 150, 20, 36, 50, 13, 3, 0]

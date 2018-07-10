@@ -1,8 +1,6 @@
 Total cost 447824.0755001656
-Time for construction 14.596311092376709
-Time for best relocate 2.7588698863983154
-Time for best exchange 0.15253305435180664
-Time for best improvement 2.911402940750122
+Time for construction 14.864000082015991
+Time for local search 4.34222412109375
 
 Route 0
 [0, 63, 49, 34, 58, 123, 2, 14, 1, 0]

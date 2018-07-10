@@ -1,8 +1,6 @@
-Total cost 367959.64434912405
-Time for construction 4.500747203826904
-Time for best relocate 1.170724868774414
-Time for best exchange 0.16945886611938477
-Time for best improvement 1.3401837348937988
+Total cost 367717.8848715731
+Time for construction 4.440697908401489
+Time for local search 2.023264169692993
 
 Route 0
 [0, 80, 48, 73, 59, 63, 7, 30, 1, 18, 0]
@@ -17,8 +15,8 @@ Route 2
 Cost 27701.77423545194
 
 Route 3
-[0, 84, 67, 53, 77, 83, 13, 44, 12, 16, 40, 0]
-Cost 38960.55066380837
+[0, 84, 67, 53, 77, 83, 13, 44, 12, 40, 16, 0]
+Cost 38718.79118625739
 
 Route 4
 [0, 78, 79, 50, 82, 57, 9, 33, 3, 35, 23, 0]

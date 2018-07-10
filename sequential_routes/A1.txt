@@ -1,8 +1,6 @@
 Total cost 236409.45844158938
-Time for construction 0.008301019668579102
-Time for best relocate 0.034149885177612305
-Time for best exchange 0.004900932312011719
-Time for best improvement 0.03905081748962402
+Time for construction 0.005719900131225586
+Time for local search 0.05233025550842285
 
 Route 0
 [0, 7, 22, 24, 1, 0]
@@ -13,7 +11,7 @@ Route 1
 Cost 42904.259744124596
 
 Route 2
-[0, 6, 19, 23, 0]
+[0, 23, 19, 6, 0]
 Cost 35882.22247854579
 
 Route 3
