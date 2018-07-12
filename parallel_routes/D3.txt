@@ -1,6 +1,6 @@
 Total cost 268534.823642
-Time for construction 0.09075784683227539
-Time for local search 0.0249330997467041
+Time for construction 0.09175395965576172
+Time for local search 0.02293872833251953
 
 Route 0
 (0, 12, 27, 17, 1, 0)
@@ -15,11 +15,11 @@ Route 2
 Cost 33697.5054336
 
 Route 3
-[0, 16, 9, 11, 22, 36, 0]
+(0, 16, 9, 11, 22, 36, 0)
 Cost 44921.6699641
 
 Route 4
-[0, 31, 23, 13, 24, 8, 5, 4, 0]
+(0, 31, 23, 13, 24, 8, 5, 4, 0)
 Cost 48060.4536877
 
 Route 5

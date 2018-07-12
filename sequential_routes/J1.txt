@@ -1,6 +1,6 @@
 Total cost 415637.019432
-Time for construction 0.06482696533203125
-Time for local search 2.029573917388916
+Time for construction 0.05884265899658203
+Time for local search 2.0654783248901367
 
 Route 0
 (0, 70, 90, 87, 71, 83, 92, 30, 46, 6, 3, 5, 19, 2, 14, 0)

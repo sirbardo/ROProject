@@ -1,6 +1,6 @@
 Total cost 195417.810745
-Time for construction 0.0029921531677246094
-Time for local search 0.036901235580444336
+Time for construction 0.002991914749145508
+Time for local search 0.036900997161865234
 
 Route 0
 (0, 8, 25, 13, 17, 9, 24, 20, 22, 1, 5, 2, 3, 4, 0)
